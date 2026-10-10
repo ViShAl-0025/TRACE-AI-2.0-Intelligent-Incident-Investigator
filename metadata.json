@@ -1,0 +1,6 @@
+{
+  "name": "TRACE AI 2.0 — Intelligent Incident Investigator",
+  "description": "Enterprise forensic incident investigation workspace connecting logs, deployments, tickets, and service telemetry with competing hypothesis testing, evidence graphs, and grounded AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
