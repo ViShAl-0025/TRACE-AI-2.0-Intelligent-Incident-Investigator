@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/4e2e28e4-605a-4b49-92c7-ad78e4653c14
+View your app in AI Studio:https://trace-ai-2-0-intelligent-incident.onrender.com
 
 ## Run Locally
 
